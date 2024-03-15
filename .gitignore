@@ -3,6 +3,8 @@
 /node_modules
 /build
 
+database-plain.md
+
 # Logs
 logs
 *.log
