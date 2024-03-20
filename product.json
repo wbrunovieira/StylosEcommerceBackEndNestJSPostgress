@@ -1,0 +1,1 @@
+{"name": "name teste", "color": ["red", "blue"], "size": ["M", "L"], "material": ["cotton", "polyester"], "images": ["image1.jpg", "image2.jpg"], "description": "Descrição do produto teste", "price": 29.99, "createdAt": "2023-01-01T00:00:00Z", "updatedAt": "2023-01-01T00:00:00Z"}
