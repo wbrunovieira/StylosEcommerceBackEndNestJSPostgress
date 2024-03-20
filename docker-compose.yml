@@ -3,6 +3,8 @@ services:
   app:
     build: .
     container_name: stylos_back
+    volumes:
+      - .:/app
     ports:
       - '3000:3000'
     environment:
